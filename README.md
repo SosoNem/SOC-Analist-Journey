@@ -1,3 +1,5 @@
+![SOC Analyst Journey — Soso Nemsadze](photo_2025-10-17_22-03-46.jpg)        
+
 # 🛡️ SOC Analyst Journey — Soso Nemsadze
 
 Location: Calgary, Canada 🇨🇦  
