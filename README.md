@@ -1,47 +1,64 @@
-# 🛡️ SOC Analyst Journey
+# 🛡️ SOC Analyst Journey — Soso Nemsadze
 
-Welcome aboard!  
-This repository documents my training toward a Junior SOC Analyst position.
----
-### 👋 About Me
-I’m Soso Nemsadze, a passionate cybersecurity learner on a mission to become a SOC Analyst.  
-With every log I read and packet I trace, I’m building the mindset, discipline, and technical reflexes of a true defender.  
-My journey combines persistence, study, and curiosity — one terminal command at a time.
+Location: Calgary, Canada 🇨🇦  
+Email: [snemsadze@yandex.com](mailto:snemsadze@yandex.com)  
+Goal: Aspiring SOC Analyst — mastering network defense, log analysis, and cybersecurity monitoring.  
 
 ---
 
-### 🧠 Focus Areas
-- 🔹 Linux & Networking Fundamentals  
-- 🔹 Log Analysis (Syslog, Auth.log)  
-- 🔹 Threat Detection & Incident Triage  
-- 🔹 Wireshark & Packet Analysis  
-- 🔹 Continuous Security Learning  
+## 🌟 About Me
+I’m Soso, an aspiring Security Operations Center (SOC) Analyst based in Calgary.  
+My path into cybersecurity started from pure curiosity — I wanted to understand how systems work, how data flows, and how to defend them.  
+
+> “Step by step I move forward. Life is like riding a bike — if you stop, you fall.”
+
+Each command, packet capture, and analysis brings me closer to my goal: to defend systems, understand threats, and protect organizations from digital storms.
 
 ---
 
-### ⚙️ Tools & Platforms
-Ubuntu · Wireshark · TShark · TryHackMe · PortSwigger · IBM SkillsBuild · ISC2 · GitHub
+## 🧰 Skills & Tools
+- Operating Systems: Linux (Ubuntu), Windows  
+- Networking: TCP/IP, UDP, DNS, HTTP/HTTPS, ICMP  
+- Security Tools: Wireshark, Tshark, Syslog, Fail2Ban  
+- SOC Practices: Log analysis, Triage, Incident detection  
+- Platforms: TryHackMe, IBM SkillsBuild, PortSwigger, ISC2  
 
 ---
 
-### 🧭 Mission Statement
-> “Repetition builds reflex. Reflex builds resilience.  
-> Resilience builds analysts.”
+## 🧩 Learning Roadmap
+| Phase | Focus Area | Status |
+|-------|-------------|--------|
+| Week 1 | Linux Basics & Command Line | ✅ Complete |
+| Week 2 | Networking Fundamentals | ✅ Complete |
+| Week 3 | Log Analysis & Triage | ✅ Complete |
+| Week 4 | Wireshark & Traffic Analysis | ✅ In Progress |
+| Week 5 | Threat Detection & Anomalies | ⏳ Upcoming |
+| Week 6 | SOC Tools & Automation | ⏳ Upcoming |
+| Week 7 | Incident Response & Reporting | ⏳ Upcoming |
+| Week 8 | Portfolio, Resume, and Mock Interviews | ⏳ Upcoming |
 
 ---
-# ## Learning Roadmap (SOC Analyst Journey)
 
-| Phase | Focus | Tools |
-|--------|--------|--------|
-| Phase 1 | Linux Basics & Networking | Ubuntu, Ping, SS, Dig |
-| Phase 2 | Log Analysis | Syslog, Auth.log, grep |
-| Phase 3 | Network Monitoring | Wireshark, Tshark |
-| Phase 4 | Incident Response | Triage Notes, SIEM |
-| Phase 5 | Continuous Learning | GitHub Portfolio, MITRE ATT&CK |
+## 📂 Repository Structure
+SOC-Analyst-Journey/ │ ├── 🗒️ Notes/                # Study notes and cheat sheets ├── 🧠 Drills/               # Linux, Network, and Log analysis drills ├── 🧾 Artifacts/            # Screenshots, .pcap files, triage templates ├── ⚙️ Projects/             # SOC case files and mini investigations └── README.md
+
 ---
-## 🗺️ Repository Overview
-SOC-Analist-Journey/ ├── triage_reports/     → Sample incident triage notes
-├── drills/             → Wireshark and network analysis drills
-├── notes/              → Learning roadmap & study notes
-└── pcaps/              → Captured packets (if uploaded later)
 
+## 🧭 Key Areas of Focus
+- Network monitoring and threat detection  
+- Log correlation and triage investigation  
+- Understanding alerts, anomalies, and indicators of compromise  
+- Continuous learning through practical drills and analysis  
+
+---
+
+## 📫 Contact
+If you’d like to collaborate, mentor, or offer feedback — feel free to reach out:  
+📧 [snemsadze@yandex.com](mailto:snemsadze@yandex.com)  
+
+---
+
+## 🚀 Current Mission
+> “To become a professional SOC Analyst through discipline, learning, and daily improvement.”  
+
+---
